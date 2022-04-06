@@ -802,8 +802,12 @@ font-family: 'Vazirmatn', sans-serif;*/
     width: 70%;
   }
 
-  .md\:max-w-\[1140px\] {
-    max-width: 1140px;
+  .md\:max-w-\[1120px\] {
+    max-width: 1120px;
+  }
+
+  .md\:max-w-\[1180px\] {
+    max-width: 1180px;
   }
 
   .md\:flex-row {
